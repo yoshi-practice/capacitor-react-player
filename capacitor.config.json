@@ -1,0 +1,6 @@
+{
+  "appId": "com.yoshi1125hisa.video.player",
+  "appName": "video-player",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
